@@ -1,0 +1,7 @@
+{
+    "Config": {	    
+		"Products": "Coleta, Serviço, Dashboard, Banco de Dados, Lumen, Outros",
+		"Activities": "Funcionalidades Gerais, Regras Programadas, Manutenção em Banco de Dados, Bugs, Plantão, Reunião, Apoio na Linha de Produção, Outros",
+		"Time (minutes)": 1
+	}
+}
